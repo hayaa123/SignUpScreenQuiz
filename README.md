@@ -1,4 +1,4 @@
-# login_page_quiz
+# sign_up_quiz
 
 A new Flutter project.
 
